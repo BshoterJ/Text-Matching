@@ -1,4 +1,4 @@
-Text matching models on LCQMC datasets in tensorflow
+Text matching models on LCQMC datasets
 
 ## Requrement
 - python 3.6
@@ -9,6 +9,7 @@ Text matching models on LCQMC datasets in tensorflow
 - pandas 0.23
 
 ## To Do List
+### Single Model
 - [x] DSSM
 - [x] ABCNN
 - [x] ESIM
@@ -16,3 +17,8 @@ Text matching models on LCQMC datasets in tensorflow
 - [ ] DIIN
 - [ ] DRCN
 - [ ] RE2
+
+### LM Fintune
+- [ ] ELMo
+- [ ] BERT
+- [ ] ALBERT
