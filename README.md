@@ -1,3 +1,5 @@
+Text matching models on LCQMC datasets in tensorflow
+
 ## Requrement
 - python 3.6
 - tensorflow-gpu 1.12
@@ -5,4 +7,12 @@
 - jieba 0.39
 - numpy 1.16
 - pandas 0.23
-- 
+
+## To Do List
+- [x] DSSM
+- [x] ABCNN
+- [x] ESIM
+- [ ] BIMPM
+- [ ] DIIN
+- [ ] DRCN
+- [ ] RE2
