@@ -17,7 +17,10 @@ Text matching models on LCQMC datasets
 - [ ] DIIN
 - [ ] DRCN
 - [ ] RE2
-
+### Classic Algorithm
+- [ ] TFIDF
+- [ ] BM25
+- [ ] VSM
 ### LM Fintune
 - [ ] ELMo
 - [ ] BERT
