@@ -29,10 +29,10 @@ Text matching models on LCQMC datasets
 ## Result
 Model| loss | acc | word/char 
 :-: | :-: | :-: | :-: | 
-DSSM |  |  | word 
-ABCNN |  |  | word 
-ESIM |  |  | word 
-BIMPM |  |  | word 
-DIIN |  |  | word 
-DRCN |  |  | word 
-RE2 |  |  | word 
+DSSM |  |  | 
+ABCNN |  |  |  
+ESIM |  |  |  
+BIMPM |  |  |  
+DIIN |  |  |  
+DRCN |  |  |  
+RE2 |  |  |  
