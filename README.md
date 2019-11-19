@@ -29,9 +29,9 @@ Text matching models on LCQMC datasets
 ## Result
 Model| accuracy | loss | word/char 
 :-: | :-: | :-: | :-: | 
-DSSM |  |  | 
-ABCNN |  |  |  
-ESIM |  |  |  
+DSSM | 63.336% |  0.64119714  | word
+ABCNN |  |  |  word
+ESIM |  |  |  word
 BIMPM |  |  |  
 DIIN |  |  |  
 DRCN |  |  |  
