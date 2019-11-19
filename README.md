@@ -27,7 +27,7 @@ Text matching models on LCQMC datasets
 - [ ] ALBERT
 
 ## Result
-Model| loss | acc | word/char 
+Model| accuracy | loss | word/char 
 :-: | :-: | :-: | :-: | 
 DSSM |  |  | 
 ABCNN |  |  |  
