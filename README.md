@@ -31,7 +31,7 @@ Model| accuracy | loss | word/char
 :-: | :-: | :-: | :-: | 
 DSSM | 63.336% |  0.64119714  | char
 ABCNN | 79.928% | 0.6421789 |  char
-ESIM |  |  |  
+ESIM | 79.5% | 0.50665236 |  
 BIMPM |  |  |  
 DIIN |  |  |  
 DRCN |  |  |  
