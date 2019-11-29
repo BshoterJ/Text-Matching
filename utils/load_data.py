@@ -6,7 +6,7 @@ import jieba
 import re
 from gensim.models import Word2Vec
 import numpy as np
-from drcn import args
+
 
 
 # 加载字典
