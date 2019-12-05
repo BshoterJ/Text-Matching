@@ -33,6 +33,6 @@ DSSM | 63.336% |  0.64119714  | char
 ABCNN | 79.928% | 0.6421789 |  char
 ESIM | 81.8% | 0.48200694 |  char
 BIMPM |  |  |  
-DIIN |  |  |  
+DIIN | 84.472% | 0.34605518 |  char + static word + dynamic word
 DRCN |  |  |  
 RE2 |  |  |  
